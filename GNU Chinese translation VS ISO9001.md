@@ -358,11 +358,11 @@ management principles and of new concepts. It also cancels and replaces the Tech
 
 ISO 9001:2015(E) 
 
+ISO 9001:2015(E) 
+
 Introduction 
-引言
 
 0.1 General 
-总则
 The adoption of a quality management system is a strategic decision for an organization that can help 
 
 to improve its overall performance and provide a sound basis for sustainable development initiatives. 
@@ -1349,9 +1349,6 @@ have been satisfactorily completed, unless otherwise approved by a relevant auth
 applicable, by the customer. 
 . 
 . ISO 2015 – All rights reserved 15 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1388,9 +1385,6 @@ The organization shall evaluate the performance and the effectiveness of the qua
 The organization shall retain appropriate documented information as evidence of the results. 
 .
 16 . ISO 2015 – All rights reserved 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1431,8 +1425,6 @@ d) ensure that the results of the audits are reported to relevant management;
 e) take appropriate correction and corrective actions without undue delay; 
 . 
 . ISO 2015 – All rights reserved 17 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1468,9 +1460,6 @@ c) resource needs.
 The organization shall retain documented information as evidence of the results of management reviews. 
 .
 18 . ISO 2015 – All rights reserved 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1508,9 +1497,6 @@ The organization shall continually improve the suitability, adequacy and effecti
 management system. 
 . 
 . ISO 2015 – All rights reserved 19 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1519,9 +1505,6 @@ management review, to determine if there are needs or opportunities that shall b
 continual improvement. 
 .
 20 . ISO 2015 – All rights reserved 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1565,10 +1548,7 @@ ISO 9001:2008 used the term “product” to include all output categories. This
 Standard uses “products and services”. “Products and services” include all output categories (hardware, 
 services, software and processed materials). 
 . 
-. ISO 2015 – All rights reserved 21 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
+. ISO 2015 – All rights reserved 21
 
 . 
 ISO 9001:2015(E) 
@@ -1618,9 +1598,6 @@ thinking and the actions it takes to address risk, including whether or not to r
 information as evidence of its determination of risks. 
 .
 22 . ISO 2015 – All rights reserved 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1667,9 +1644,6 @@ b) encouraging the organization to acquire knowledge, e.g.
 — benchmarking. 
 . 
 . ISO 2015 – All rights reserved 23
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1687,9 +1661,6 @@ of controls appropriate to particular external providers and externally provided
 and services. 
 .
 24 . ISO 2015 – All rights reserved 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1739,9 +1710,6 @@ people. It also provides guidance for small businesses.
 to organizations provides guidance for effective and efficient external dispute resolution for 
 . 
 . ISO 2015 – All rights reserved 25 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1796,9 +1764,6 @@ to assist in decision making, and thereby help to continually improve the qualit
 processes to achieve customer satisfaction. 
 .
 26 . ISO 2015 – All rights reserved 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1845,8 +1810,6 @@ NOTE “All” indicates that all the subclauses in the specific clause of this 
 International Standard. 
 . 
 . ISO 2015 – All rights reserved 27 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 . 
 ISO 9001:2015(E) 
@@ -1887,9 +1850,6 @@ computer software
 1) Available from website: http://www.iso.org. 
 .
 28 . ISO 2015 – All rights reserved 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
-
 . 
 ISO 9001:2015(E) 
 [27] Integrated use of management system standards, ISO1) 
@@ -1897,9 +1857,6 @@ ISO 9001:2015(E)
 [29] www.iso.org/tc176/ISO9001AuditingPracticesGroup 
 . 
 . ISO 2015 – All rights reserved 29 
---`,,,``,`````,,``,,,``,`,,,-`-`,,`,,`,`,,`--- 
-Download From http://bbs.infoeach.com 
-Download From http://bbs.infoeach.com
 
 ISO 9001:2015(E) 
 
