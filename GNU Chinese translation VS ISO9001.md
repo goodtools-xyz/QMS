@@ -1,18 +1,20 @@
-INTERNATIONAL ISO 
-STANDARD 9001 
+INTERNATIONAL STANDARD 
+国际标准
+ISO  9001 
 
 
 Fifth edition 2015-09-15 
+第5版
 
 Quality management systems — 
 Requirements 
-
+质量管理体系-要求
 Systèmes de management de la qualité — Exigences 
 
 
 Reference number 
 ISO 9001:2015(E) 
-
+索引编号
 
 . ISO 2015 
 
@@ -48,8 +50,9 @@ www.iso.org
 ISO 9001:2015(E) 
 
 Contents Page 
+目录  页码
 
-Foreword ..........................................................................................................................................................................................................................................v 
+Foreword 前言..........................................................................................................................................................................................................................................v 
 Introduction................................................................................................................................................................................................................................vi 
 1 Scope ................................................................................................................................................................................................................................. 1 
 2 Normative references...................................................................................................................................................................................... 1 
@@ -313,6 +316,7 @@ ISO 9001:2015(E)
 
 
 Foreword 
+前言
 
 ISO (the International Organization for Standardization) is a worldwide federation of national standards 
 
@@ -355,8 +359,10 @@ management principles and of new concepts. It also cancels and replaces the Tech
 ISO 9001:2015(E) 
 
 Introduction 
+引言
 
 0.1 General 
+总则
 The adoption of a quality management system is a strategic decision for an organization that can help 
 
 to improve its overall performance and provide a sound basis for sustainable development initiatives. 
